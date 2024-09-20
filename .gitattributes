@@ -1,2 +1,4 @@
 *.a filter=lfs diff=lfs merge=lfs -text
 Sampler/Builds/MacOSX/build/Debug/libSampler.a filter=lfs diff=lfs merge=lfs -text
+Sampler/Builds/MacOSX/build/Debug/Sampler.app filter=lfs diff=lfs merge=lfs -text
+Sampler/Builds filter=lfs diff=lfs merge=lfs -text
